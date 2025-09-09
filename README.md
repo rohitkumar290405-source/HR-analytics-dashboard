@@ -27,8 +27,6 @@ Public HR analytics datasets from Google and YouTube resources/tutorials.
 ✔️ Visual Storytelling – Combination of bar charts, pie charts, KPIs, and line charts.
 
 📷 Screenshot & Demo
-Dashboard Preview
-
-🎥 Demo
+---  https://github.com/rohitkumar290405-source/HR-analytics-dashboard/blob/main/Screenshot%20(1).png
 
 (Add a demo link here if you upload a video on YouTube/Google Drive showing how the dashboard works.)
